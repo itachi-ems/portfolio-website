@@ -1,6 +1,6 @@
 🚀 Personal Portfolio Website
 
-🔗 Live Website: www.jayantgulati.com
+🔗 Live Website: www.harsh-shah.in
 
 📌 Features
 
@@ -22,4 +22,4 @@ AWS Amplify automatically builds and deploys the latest version.
 
 If you have any questions or feedback, feel free to reach out!
 
-📧 Email: jayantgulati5@gmail.com
+📧 Email: jshahharsh@gmail.com
