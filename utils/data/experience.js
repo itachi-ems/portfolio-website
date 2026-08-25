@@ -1,7 +1,7 @@
 export const experiences = [
   {
     id: 1,
-    title: "Cloud Infras Specialist",
+    title: "Cloud Infra Specialist",
     company: " Crenspire Technologies ",
     duration: "(Oct 2023 - Present)",
   },

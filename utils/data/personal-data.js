@@ -1,7 +1,7 @@
 export const personalData = {
   name: "Harsh Shah",
-  profile: "/harsh.jpg.ico",
-  designation: "Cloud Security Engineer",
+  profile: "/port.jpg",
+  designation: "Cloud Devops Engineer",
   description:
     "My name is Harsh Shah. I am a Cloud Infrastructure and DevOps Engineer with experience in designing, deploying, and securing scalable cloud environments, specializing in AWS, Kubernetes, Terraform, CI/CD, and cloud automation. I work with cloud infrastructure, containerized workloads, Linux systems, and deployment automation to build reliable and secure solutions. With a strong interest in cloud security, I focus on applying security best practices, automation, and infrastructure as code to improve reliability and operational efficiency. Passionate about cloud and DevOps technologies, I continuously expand my expertise to build resilient, scalable, and secure infrastructure.",
   email: "jshahharsh@gmail.com",
